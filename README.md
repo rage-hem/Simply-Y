@@ -1,1 +1,3 @@
-# Simply-Y
+# Simply-y
+website structure and code
+

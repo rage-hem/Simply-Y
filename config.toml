@@ -1,0 +1,27 @@
+baseurl = "http://simply-y.uk"
+title = "Simply-Y"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Building the right conditions for growth in your organisation<!--]--><br />
+                <!--[-->by improving understanding of your people, customers and organisation<!--]-->'
+  logo = "fa-line-chart"
+
+[[params.social]]
+  medium = "twitter"
+  icon = "twitter"
+  link = "#"
+
+[[params.social]]
+  medium = "LinkedIn Tony"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/anthony-stephens-342a7317/"
+
+[[params.social]]
+  medium = "LinkedIn Conrad"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/conradhemingway/"
